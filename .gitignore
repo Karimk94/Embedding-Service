@@ -1,0 +1,10 @@
+/local_models
+/venv
+/packages
+/logs
+/.env
+graphify-out/
+__pycache__/
+*.pyc
+*.pyo
+*.zip
